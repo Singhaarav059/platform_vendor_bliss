@@ -48,18 +48,14 @@ PRODUCT_PACKAGES_DEBUG += \
 # Bliss Packages
 PRODUCT_PACKAGES += \
     CustomDoze \
-    LatinIME \
-    DeskClock \
     ThemePicker \
     BlissUpdater \
-    BlissPapers \
     Longshot \
     OPScreenRecorder \
     NexusWallpapersStubPrebuilt2019Static \
     GalleryGoPrebuilt \
     AboutBliss \
     BlissStatistics \
-    Contacts \
     Dialer \
     OmniJaws \
     WeatherIcons \
